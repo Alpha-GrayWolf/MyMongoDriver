@@ -1,0 +1,8 @@
+E:\Project\MyProject\MongoDb\bin\Debug\MongoDb.dll
+E:\Project\MyProject\MongoDb\bin\Debug\MongoDb.pdb
+E:\Project\MyProject\MongoDb\bin\Debug\MongoDB.Bson.dll
+E:\Project\MyProject\MongoDb\bin\Debug\MongoDB.Driver.Core.dll
+E:\Project\MyProject\MongoDb\bin\Debug\MongoDB.Driver.dll
+E:\Project\MyProject\MongoDb\obj\Debug\MongoDb.csprojResolveAssemblyReference.cache
+E:\Project\MyProject\MongoDb\obj\Debug\MongoDb.dll
+E:\Project\MyProject\MongoDb\obj\Debug\MongoDb.pdb

@@ -1,0 +1,15 @@
+E:\Project\MyProject\BLL\bin\Debug\BLL.dll
+E:\Project\MyProject\BLL\bin\Debug\BLL.pdb
+E:\Project\MyProject\BLL\bin\Debug\Command.dll
+E:\Project\MyProject\BLL\bin\Debug\Entity.dll
+E:\Project\MyProject\BLL\bin\Debug\MongoDB.Bson.dll
+E:\Project\MyProject\BLL\bin\Debug\MongoDb.dll
+E:\Project\MyProject\BLL\bin\Debug\MongoDB.Driver.Core.dll
+E:\Project\MyProject\BLL\bin\Debug\MongoDB.Driver.dll
+E:\Project\MyProject\BLL\bin\Debug\Newtonsoft.Json.dll
+E:\Project\MyProject\BLL\bin\Debug\Command.pdb
+E:\Project\MyProject\BLL\bin\Debug\Entity.pdb
+E:\Project\MyProject\BLL\bin\Debug\MongoDb.pdb
+E:\Project\MyProject\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+E:\Project\MyProject\BLL\obj\Debug\BLL.dll
+E:\Project\MyProject\BLL\obj\Debug\BLL.pdb

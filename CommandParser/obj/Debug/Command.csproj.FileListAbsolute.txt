@@ -1,0 +1,4 @@
+E:\Project\MyProject\Command\bin\Debug\Command.dll
+E:\Project\MyProject\Command\bin\Debug\Command.pdb
+E:\Project\MyProject\Command\obj\Debug\Command.dll
+E:\Project\MyProject\Command\obj\Debug\Command.pdb

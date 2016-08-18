@@ -1,0 +1,6 @@
+E:\Project\MyProject\CommandParser\bin\Debug\Command.dll
+E:\Project\MyProject\CommandParser\bin\Debug\Command.pdb
+E:\Project\MyProject\CommandParser\bin\Debug\Newtonsoft.Json.dll
+E:\Project\MyProject\CommandParser\obj\Debug\CommandParser.csprojResolveAssemblyReference.cache
+E:\Project\MyProject\CommandParser\obj\Debug\Command.dll
+E:\Project\MyProject\CommandParser\obj\Debug\Command.pdb

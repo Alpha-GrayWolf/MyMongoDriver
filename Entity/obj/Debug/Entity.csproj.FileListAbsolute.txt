@@ -1,0 +1,11 @@
+E:\Project\MyProject\Entity\bin\Debug\Entity.dll
+E:\Project\MyProject\Entity\bin\Debug\Entity.pdb
+E:\Project\MyProject\Entity\bin\Debug\MongoDb.dll
+E:\Project\MyProject\Entity\bin\Debug\MongoDB.Driver.dll
+E:\Project\MyProject\Entity\bin\Debug\StackExchange.Redis.dll
+E:\Project\MyProject\Entity\bin\Debug\MongoDB.Bson.dll
+E:\Project\MyProject\Entity\bin\Debug\MongoDB.Driver.Core.dll
+E:\Project\MyProject\Entity\bin\Debug\MongoDb.pdb
+E:\Project\MyProject\Entity\obj\Debug\Entity.csprojResolveAssemblyReference.cache
+E:\Project\MyProject\Entity\obj\Debug\Entity.dll
+E:\Project\MyProject\Entity\obj\Debug\Entity.pdb
